@@ -5,7 +5,7 @@ config:
     timeout: 10
   phases:
     - name: 30 by second
-      duration: 20
+      duration: 180
       arrivalRate: 30
 scenarios:
   - flow:

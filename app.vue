@@ -11,5 +11,6 @@ const config = useRuntimeConfig()
 console.log(config)
 
 // no duplicates
-console.log('COUCOU')
+const test = { value: 'COUCOU' }
+console.log(test)
 </script>
